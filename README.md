@@ -11,7 +11,7 @@ simrec /path/to/image /path/to/template
 $ (x,y)
 ```
 
-### Pyhton use
+### Python use
 ```
 pip install simple-img-rec
 
